@@ -34,13 +34,14 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   .project{
+    border-radius: 25px;
     z-index:1;
     white-space: pre-wrap;
     background:white;
     color:black;
     opacity: 0.7;
     width:90%;
-    height:70%;
+    height:80%;
   }
 
 
@@ -49,12 +50,35 @@ export const GlobalStyles = createGlobalStyle`
     white-space: pre-wrap;
   }
   .smallFont{
-    font-size:1.75rem;
+    font-size:2rem;
     
   }
   .biggerFont{
-    font-size:2.5rem;
+    font-size:2.75rem;
   }
+
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  height:20%;
+  width:80%;
+}
+
 
 
 

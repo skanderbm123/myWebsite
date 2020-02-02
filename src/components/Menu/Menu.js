@@ -16,7 +16,7 @@ const Menu = ({ open, ...props }) => {
         </a>
       <a href="#project" tabIndex={tabIndex}>
         <span aria-hidden="true">📓</span>
-        Projects
+        Work/Projects
         </a>
       <a href="#contact" tabIndex={tabIndex}>
         <span aria-hidden="true">📩</span>
