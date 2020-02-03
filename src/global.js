@@ -79,6 +79,25 @@ export const GlobalStyles = createGlobalStyle`
   width:80%;
 }
 
+.me{
+  height:70%;
+  width:100%; 
+}
+
+.onTop{
+  height:20%;
+  width:26%;
+  background:rgba(255, 255, 255, 0.8);
+  margin: 5% 0 0 10%;
+  text-align:center;
+  position:absolute;
+}
+
+.logo{
+  height:20%;
+  width:20%; 
+}
+
 
 
 
