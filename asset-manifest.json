@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/personalWebsite/static/js/main.9c2f9ad9.chunk.js",
+    "main.js.map": "/personalWebsite/static/js/main.9c2f9ad9.chunk.js.map",
+    "runtime-main.js": "/personalWebsite/static/js/runtime-main.15b830a8.js",
+    "runtime-main.js.map": "/personalWebsite/static/js/runtime-main.15b830a8.js.map",
+    "static/css/2.35c79731.chunk.css": "/personalWebsite/static/css/2.35c79731.chunk.css",
+    "static/js/2.2c6b5307.chunk.js": "/personalWebsite/static/js/2.2c6b5307.chunk.js",
+    "static/js/2.2c6b5307.chunk.js.map": "/personalWebsite/static/js/2.2c6b5307.chunk.js.map",
+    "index.html": "/personalWebsite/index.html",
+    "precache-manifest.5ee6db76a1a9a09057d3b76f435f9fa5.js": "/personalWebsite/precache-manifest.5ee6db76a1a9a09057d3b76f435f9fa5.js",
+    "service-worker.js": "/personalWebsite/service-worker.js",
+    "static/css/2.35c79731.chunk.css.map": "/personalWebsite/static/css/2.35c79731.chunk.css.map",
+    "static/js/2.2c6b5307.chunk.js.LICENSE": "/personalWebsite/static/js/2.2c6b5307.chunk.js.LICENSE",
+    "static/media/download.svg": "/personalWebsite/static/media/download.86f44939.svg",
+    "static/media/slick-theme.css": "/personalWebsite/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15b830a8.js",
+    "static/css/2.35c79731.chunk.css",
+    "static/js/2.2c6b5307.chunk.js",
+    "static/js/main.9c2f9ad9.chunk.js"
+  ]
+}
