@@ -27,7 +27,7 @@ function App() {
     arrows:false,
     autoplay : true,
     infinite: true,
-    autoplaySpeed:1000,
+    autoplaySpeed:999,
     swipeToSlide:true,
     pauseOnHover:true,
     slidesToShow: 3,
