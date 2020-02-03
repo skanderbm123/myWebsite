@@ -48,8 +48,8 @@ function App() {
           secondsBeforeBannerShows={3}
           closeIconSize={30}
       />
-          <div className="main" id='about'>  
-     
+          <div className="main">  
+          <h1 className="topright">*CSS NOT DONE FOR MOBILE AND IE*</h1>
           <div className="particles">
               <Particles  params={particlesParams} height={800}/>
               </div>

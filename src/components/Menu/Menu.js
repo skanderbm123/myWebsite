@@ -16,7 +16,7 @@ const Menu = ({ open, ...props }) => {
         </a>
       <a href="#work" tabIndex={tabIndex}>
         <span aria-hidden="true">📓</span>
-      Work
+      Experience
         </a>
       <a href="#about" tabIndex={tabIndex}>
         <span aria-hidden="true">📩</span>

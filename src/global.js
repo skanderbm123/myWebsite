@@ -97,8 +97,12 @@ export const GlobalStyles = createGlobalStyle`
   height:20%;
   width:20%; 
 }
-
-
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
 
 
 
